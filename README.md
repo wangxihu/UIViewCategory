@@ -7,6 +7,8 @@
 因为导入这个工具类后再也不用在代码里设置 layer的cornerRadius、masksToBounds、borderWidth、borderColor
 属性了，直接在Xib或者Storyboard里就能设置了。嘻嘻😀
 
+https://github.com/wangxihu/UIViewCategory/raw/master/Assets/jietu.png
+
 ##.m代码：
 
 @implementation UIView (CornerRadius)
