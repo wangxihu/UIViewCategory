@@ -14,6 +14,7 @@
 		21CC84401F3AC0570086D036 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21CC843F1F3AC0570086D036 /* Assets.xcassets */; };
 		21CC84431F3AC0570086D036 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 21CC84411F3AC0570086D036 /* LaunchScreen.storyboard */; };
 		21CC844D1F3AC1280086D036 /* UIView+CornerRadius.m in Sources */ = {isa = PBXBuildFile; fileRef = 21CC844C1F3AC1280086D036 /* UIView+CornerRadius.m */; };
+		272CFE96204E92BA00724691 /* jietu.png in Resources */ = {isa = PBXBuildFile; fileRef = 272CFE95204E92BA00724691 /* jietu.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		21CC84441F3AC0570086D036 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		21CC844B1F3AC1280086D036 /* UIView+CornerRadius.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+CornerRadius.h"; sourceTree = "<group>"; };
 		21CC844C1F3AC1280086D036 /* UIView+CornerRadius.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+CornerRadius.m"; sourceTree = "<group>"; };
+		272CFE95204E92BA00724691 /* jietu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jietu.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +47,7 @@
 		21CC84271F3AC0570086D036 = {
 			isa = PBXGroup;
 			children = (
+				272CFE95204E92BA00724691 /* jietu.png */,
 				21CC84321F3AC0570086D036 /* UIViewCategory */,
 				21CC84311F3AC0570086D036 /* Products */,
 			);
@@ -152,6 +155,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				21CC84431F3AC0570086D036 /* LaunchScreen.storyboard in Resources */,
+				272CFE96204E92BA00724691 /* jietu.png in Resources */,
 				21CC84401F3AC0570086D036 /* Assets.xcassets in Resources */,
 				21CC843E1F3AC0570086D036 /* Main.storyboard in Resources */,
 			);
@@ -326,6 +330,7 @@
 				21CC84491F3AC0570086D036 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
