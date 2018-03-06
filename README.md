@@ -7,7 +7,8 @@
 因为导入这个工具类后再也不用在代码里设置 layer的cornerRadius、masksToBounds、borderWidth、borderColor
 属性了，直接在Xib或者Storyboard里就能设置了。
 
-https://github.com/wangxihu/UIViewCategory/UIViewCategory/master/Assets/jietu.png
+![image](https://github.com/wangxihu/UIViewCategory/UIViewCategory/UIViewCategory/Assets.xcassets/
+jietu.png)
 
 ##.m代码：
 
