@@ -3,9 +3,11 @@
 
 先简单介绍下这个工具类是干嘛的 = =
 
-对于使用Xib和Storyboard进行开发的同学来说这简直就是一个福利！！！！
+对于使用Xib和Storyboard进行开发的同学来说是一个不错的选择！！！！
 因为导入这个工具类后再也不用在代码里设置 layer的cornerRadius、masksToBounds、borderWidth、borderColor
-属性了，直接在Xib或者Storyboard里就能设置了。嘻嘻😀
+属性了，直接在Xib或者Storyboard里就能设置了。
+
+![image](https://github.com/wangxihu/UIViewCategory/UIViewCategory/UIViewCategory/Assets.xcassets/jietu.png)
 
 ##.m代码：
 
