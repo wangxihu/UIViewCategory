@@ -31,4 +31,3 @@ self.layer.borderColor = layerBoderColor.CGColor;
 
 @end
 
-希望大神看了能给出一些建议
