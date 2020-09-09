@@ -9,7 +9,11 @@
 #import "UIView+CornerRadius.h"
 
 @implementation UIView (CornerRadius)
+@dynamic layerBoderWidth;
+@dynamic layerBoderColor;
 - (void)setCornerRadius:(CGFloat)cornerRadius{
+    self.layerBoderColor = [UIColor whiteColor];
+    self.layerBoderWidth = 1.0;
     self.layer.cornerRadius = cornerRadius;
     self.layer.masksToBounds = cornerRadius > 0;
 }
